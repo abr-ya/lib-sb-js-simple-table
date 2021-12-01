@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 import styles from './table.module.css';
 import PropTypes from 'prop-types';
 export const SimpleTable = ({
