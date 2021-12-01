@@ -1,4 +1,4 @@
-import { SimpleTable } from '../index';
+import { SimpleTable } from '../component/index';
 
 export default {
   title: 'SimpleTable - A Customizable React Table Component',
